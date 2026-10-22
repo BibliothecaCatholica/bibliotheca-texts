@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "origin": "https://texts.bibliothecacatholica.com",
-  "sourceCommit": "5af56d9dc47298fb90bf9aabb04cc33f5dafe4f3",
-  "totalBytes": 13039652,
+  "sourceCommit": "8f83d5d0fdd7a56b4acbfedbe94a2e901b14e442",
+  "totalBytes": 24391271,
   "documents": [
     {
       "workId": "confessions",
@@ -448,6 +448,439 @@
       "provenance": "provenance/pg-22403.json",
       "read": "https://bibliothecacatholica.com/#/read/hopkins-poems/pg-22403",
       "details": "https://bibliothecacatholica.com/work/hopkins-poems/"
+    },
+    {
+      "workId": "heretics",
+      "editionId": "pg-470",
+      "title": "Heretics",
+      "author": "G. K. Chesterton",
+      "language": "English",
+      "edition": "Project Gutenberg #470",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/470",
+      "checked": "2026-10-22",
+      "bytes": 390270,
+      "sha256": "291fb27d68c0cfca7523032a42d57a743e62a6e58faf9cc728f78ef748703829",
+      "file": "texts/pg-470.txt",
+      "provenance": "provenance/pg-470.json",
+      "read": "https://bibliothecacatholica.com/#/read/heretics/pg-470",
+      "details": "https://bibliothecacatholica.com/work/heretics/"
+    },
+    {
+      "workId": "whats-wrong-world",
+      "editionId": "pg-1717",
+      "title": "What's Wrong with the World",
+      "author": "G. K. Chesterton",
+      "language": "English",
+      "edition": "Project Gutenberg #1717",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/1717",
+      "checked": "2026-10-22",
+      "bytes": 363827,
+      "sha256": "3fca1be002cd168dfbc50369202a53ed89e34a88d6de3c44032e15319d5d5bd4",
+      "file": "texts/pg-1717.txt",
+      "provenance": "provenance/pg-1717.json",
+      "read": "https://bibliothecacatholica.com/#/read/whats-wrong-world/pg-1717",
+      "details": "https://bibliothecacatholica.com/work/whats-wrong-world/"
+    },
+    {
+      "workId": "ball-and-cross",
+      "editionId": "pg-5265",
+      "title": "The Ball and the Cross",
+      "author": "G. K. Chesterton",
+      "language": "English",
+      "edition": "Project Gutenberg #5265",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/5265",
+      "checked": "2026-10-22",
+      "bytes": 477290,
+      "sha256": "26feb9fae70f1813484af8ad103c3349b49328f59ca2575fc313848c5ef69623",
+      "file": "texts/pg-5265.txt",
+      "provenance": "provenance/pg-5265.json",
+      "read": "https://bibliothecacatholica.com/#/read/ball-and-cross/pg-5265",
+      "details": "https://bibliothecacatholica.com/work/ball-and-cross/"
+    },
+    {
+      "workId": "wisdom-father-brown",
+      "editionId": "pg-223",
+      "title": "The Wisdom of Father Brown",
+      "author": "G. K. Chesterton",
+      "language": "English",
+      "edition": "Project Gutenberg #223",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/223",
+      "checked": "2026-10-22",
+      "bytes": 434707,
+      "sha256": "86a5d9c201d8e4d4504d21676cc7b5dd94fca600dad21562a88bdebbe03500d6",
+      "file": "texts/pg-223.txt",
+      "provenance": "provenance/pg-223.json",
+      "read": "https://bibliothecacatholica.com/#/read/wisdom-father-brown/pg-223",
+      "details": "https://bibliothecacatholica.com/work/wisdom-father-brown/"
+    },
+    {
+      "workId": "ballad-white-horse",
+      "editionId": "pg-1719",
+      "title": "The Ballad of the White Horse",
+      "author": "G. K. Chesterton",
+      "language": "English",
+      "edition": "Project Gutenberg #1719",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/1719",
+      "checked": "2026-10-22",
+      "bytes": 141951,
+      "sha256": "854d65ace137b7273a44d4ba17839935a65b66bc660288466f3347ba3f28f444",
+      "file": "texts/pg-1719.txt",
+      "provenance": "provenance/pg-1719.json",
+      "read": "https://bibliothecacatholica.com/#/read/ballad-white-horse/pg-1719",
+      "details": "https://bibliothecacatholica.com/work/ballad-white-horse/"
+    },
+    {
+      "workId": "catholic-church-conversion",
+      "editionId": "pg-76305",
+      "title": "The Catholic Church and Conversion",
+      "author": "G. K. Chesterton",
+      "language": "English",
+      "edition": "Project Gutenberg #76305",
+      "contributors": [
+        {
+          "role": "series editor",
+          "name": "Hilaire Belloc"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/76305",
+      "checked": "2026-10-22",
+      "bytes": 163703,
+      "sha256": "04d66187865db8c5f48d75f1898057d970f16a257df83ec772fc78724467bc0e",
+      "file": "texts/pg-76305.txt",
+      "provenance": "provenance/pg-76305.json",
+      "read": "https://bibliothecacatholica.com/#/read/catholic-church-conversion/pg-76305",
+      "details": "https://bibliothecacatholica.com/work/catholic-church-conversion/"
+    },
+    {
+      "workId": "servile-state",
+      "editionId": "pg-64882",
+      "title": "The Servile State",
+      "author": "Hilaire Belloc",
+      "language": "English",
+      "edition": "Project Gutenberg #64882",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/64882",
+      "checked": "2026-10-22",
+      "bytes": 249648,
+      "sha256": "dd6eb9a2564ab426eb47e55b91f69eb0e786896eeb32abe165d326b71394aef1",
+      "file": "texts/pg-64882.txt",
+      "provenance": "provenance/pg-64882.json",
+      "read": "https://bibliothecacatholica.com/#/read/servile-state/pg-64882",
+      "details": "https://bibliothecacatholica.com/work/servile-state/"
+    },
+    {
+      "workId": "catholic-church-history",
+      "editionId": "pg-78085",
+      "title": "The Catholic Church and History",
+      "author": "Hilaire Belloc",
+      "language": "English",
+      "edition": "Project Gutenberg #78085",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/78085",
+      "checked": "2026-10-22",
+      "bytes": 147707,
+      "sha256": "3a4ce454324345216b61fb375e41bfd75191f928b56b68557aa42675a6119e4c",
+      "file": "texts/pg-78085.txt",
+      "provenance": "provenance/pg-78085.json",
+      "read": "https://bibliothecacatholica.com/#/read/catholic-church-history/pg-78085",
+      "details": "https://bibliothecacatholica.com/work/catholic-church-history/"
+    },
+    {
+      "workId": "loss-and-gain",
+      "editionId": "pg-24574",
+      "title": "Loss and Gain: The Story of a Convert",
+      "author": "John Henry Newman",
+      "language": "English",
+      "edition": "Project Gutenberg #24574",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/24574",
+      "checked": "2026-10-22",
+      "bytes": 637965,
+      "sha256": "99a55617b7f059657213e28457aa330c2ae853c1502d4c4f066dd9e4b4f499cd",
+      "file": "texts/pg-24574.txt",
+      "provenance": "provenance/pg-24574.json",
+      "read": "https://bibliothecacatholica.com/#/read/loss-and-gain/pg-24574",
+      "details": "https://bibliothecacatholica.com/work/loss-and-gain/"
+    },
+    {
+      "workId": "callista",
+      "editionId": "pg-30664",
+      "title": "Callista: A Tale of the Third Century",
+      "author": "John Henry Newman",
+      "language": "English",
+      "edition": "Project Gutenberg #30664",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/30664",
+      "checked": "2026-10-22",
+      "bytes": 575819,
+      "sha256": "96d32b87eefb00923d948e2bd536736ae4002defab0ba3d3d32507cdd786343e",
+      "file": "texts/pg-30664.txt",
+      "provenance": "provenance/pg-30664.json",
+      "read": "https://bibliothecacatholica.com/#/read/callista/pg-30664",
+      "details": "https://bibliothecacatholica.com/work/callista/"
+    },
+    {
+      "workId": "dream-gerontius",
+      "editionId": "pg-48927",
+      "title": "The Dream of Gerontius",
+      "author": "John Henry Newman",
+      "language": "English",
+      "edition": "Project Gutenberg #48927",
+      "contributors": [
+        {
+          "role": "editor and commentator",
+          "name": "Maurice Francis Egan"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/48927",
+      "checked": "2026-10-22",
+      "bytes": 103932,
+      "sha256": "4380b7b5eae11a51b546ce425451bc8b44dba0017a64519e5d6004a7961c0e19",
+      "file": "texts/pg-48927.txt",
+      "provenance": "provenance/pg-48927.json",
+      "read": "https://bibliothecacatholica.com/#/read/dream-gerontius/pg-48927",
+      "details": "https://bibliothecacatholica.com/work/dream-gerontius/"
+    },
+    {
+      "workId": "aquinas-prayer-contemplative",
+      "editionId": "pg-22295",
+      "title": "On Prayer and the Contemplative Life",
+      "author": "Thomas Aquinas",
+      "language": "English",
+      "edition": "Project Gutenberg #22295",
+      "contributors": [
+        {
+          "role": "translator",
+          "name": "Hugh Pope, O.P."
+        },
+        {
+          "role": "preface",
+          "name": "Vincent McNabb, O.P."
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/22295",
+      "checked": "2026-10-22",
+      "bytes": 451259,
+      "sha256": "97039fc2a806568693df12797f12e0db2cf98f1213dfdddc7a0c8e9dd25c217b",
+      "file": "texts/pg-22295.txt",
+      "provenance": "provenance/pg-22295.json",
+      "read": "https://bibliothecacatholica.com/#/read/aquinas-prayer-contemplative/pg-22295",
+      "details": "https://bibliothecacatholica.com/work/aquinas-prayer-contemplative/"
+    },
+    {
+      "workId": "city-of-god",
+      "editionId": "pg-45304",
+      "title": "The City of God",
+      "author": "Augustine of Hippo",
+      "language": "English",
+      "edition": "Project Gutenberg #45304 · Volume I",
+      "contributors": [
+        {
+          "role": "translator and editor",
+          "name": "Marcus Dods"
+        },
+        {
+          "role": "translator (Books IV, XVII, XVIII)",
+          "name": "George Wilson"
+        },
+        {
+          "role": "translator (Books V–VIII)",
+          "name": "J. J. Smith"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/45304",
+      "checked": "2026-10-22",
+      "bytes": 1357443,
+      "sha256": "3bbc1ec72bb2629fb8f787f786c39e05571ce7bedadcdfd8963b348068a70391",
+      "file": "texts/pg-45304.txt",
+      "provenance": "provenance/pg-45304.json",
+      "read": "https://bibliothecacatholica.com/#/read/city-of-god/pg-45304",
+      "details": "https://bibliothecacatholica.com/work/city-of-god/"
+    },
+    {
+      "workId": "city-of-god",
+      "editionId": "pg-45305",
+      "title": "The City of God",
+      "author": "Augustine of Hippo",
+      "language": "English",
+      "edition": "Project Gutenberg #45305 · Volume II",
+      "contributors": [
+        {
+          "role": "translator and editor",
+          "name": "Marcus Dods"
+        },
+        {
+          "role": "translator (Books IV, XVII, XVIII)",
+          "name": "George Wilson"
+        },
+        {
+          "role": "translator (Books V–VIII)",
+          "name": "J. J. Smith"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/45305",
+      "checked": "2026-10-22",
+      "bytes": 1435049,
+      "sha256": "612d851c4be99c3684110c67e796af572d7bd75503b8e87d94004ddc76310e5f",
+      "file": "texts/pg-45305.txt",
+      "provenance": "provenance/pg-45305.json",
+      "read": "https://bibliothecacatholica.com/#/read/city-of-god/pg-45305",
+      "details": "https://bibliothecacatholica.com/work/city-of-god/"
+    },
+    {
+      "workId": "bede-ecclesiastical-history",
+      "editionId": "pg-38326",
+      "title": "Ecclesiastical History of the English People",
+      "author": "Bede the Venerable",
+      "language": "English",
+      "edition": "Project Gutenberg #38326",
+      "contributors": [
+        {
+          "role": "translator",
+          "name": "A. M. Sellar"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/38326",
+      "checked": "2026-10-22",
+      "bytes": 1093654,
+      "sha256": "977da0babf070c825befb0a5db65a9cc2440d9ab45aa869a959c1bab911be2c8",
+      "file": "texts/pg-38326.txt",
+      "provenance": "provenance/pg-38326.json",
+      "read": "https://bibliothecacatholica.com/#/read/bede-ecclesiastical-history/pg-38326",
+      "details": "https://bibliothecacatholica.com/work/bede-ecclesiastical-history/"
+    },
+    {
+      "workId": "catherine-letters",
+      "editionId": "pg-7403",
+      "title": "Saint Catherine of Siena as Seen in Her Letters",
+      "author": "Catherine of Siena",
+      "language": "English",
+      "edition": "Project Gutenberg #7403",
+      "contributors": [
+        {
+          "role": "translator and editor",
+          "name": "Vida D. Scudder"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/7403",
+      "checked": "2026-10-22",
+      "bytes": 636790,
+      "sha256": "d207bb39366ef31ebf1c08078ef048c5af45d0fce8a7c28aa499d9c169645a87",
+      "file": "texts/pg-7403.txt",
+      "provenance": "provenance/pg-7403.json",
+      "read": "https://bibliothecacatholica.com/#/read/catherine-letters/pg-7403",
+      "details": "https://bibliothecacatholica.com/work/catherine-letters/"
+    },
+    {
+      "workId": "consolation-philosophy",
+      "editionId": "pg-14328",
+      "title": "The Consolation of Philosophy",
+      "author": "Boethius",
+      "language": "English",
+      "edition": "Project Gutenberg #14328",
+      "contributors": [
+        {
+          "role": "translator",
+          "name": "H. R. James"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/14328",
+      "checked": "2026-10-22",
+      "bytes": 275674,
+      "sha256": "82257f260aeb9f1f2d197ceb18aec1180c7a831fe6437a642f6ba5b32f44cdbd",
+      "file": "texts/pg-14328.txt",
+      "provenance": "provenance/pg-14328.json",
+      "read": "https://bibliothecacatholica.com/#/read/consolation-philosophy/pg-14328",
+      "details": "https://bibliothecacatholica.com/work/consolation-philosophy/"
+    },
+    {
+      "workId": "apostolic-fathers",
+      "editionId": "pg-77576",
+      "title": "The Writings of the Apostolic Fathers",
+      "author": "Clement of Rome, Ignatius of Antioch, Polycarp, and others",
+      "language": "English",
+      "edition": "Project Gutenberg #77576",
+      "contributors": [
+        {
+          "role": "translator and editor",
+          "name": "Alexander Roberts"
+        },
+        {
+          "role": "translator and editor",
+          "name": "James Donaldson"
+        },
+        {
+          "role": "translator (Shepherd of Hermas)",
+          "name": "F. Crombie"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/77576",
+      "checked": "2026-10-22",
+      "bytes": 965733,
+      "sha256": "2a50a9cb4e98ab58a01fc6e11df700a9ab685b638d52be954fc0a7467eb598cb",
+      "file": "texts/pg-77576.txt",
+      "provenance": "provenance/pg-77576.json",
+      "read": "https://bibliothecacatholica.com/#/read/apostolic-fathers/pg-77576",
+      "details": "https://bibliothecacatholica.com/work/apostolic-fathers/"
+    },
+    {
+      "workId": "glories-of-mary",
+      "editionId": "pg-72411",
+      "title": "The Glories of Mary",
+      "author": "Alphonsus Liguori",
+      "language": "English",
+      "edition": "Project Gutenberg #72411",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/72411",
+      "checked": "2026-10-22",
+      "bytes": 1232145,
+      "sha256": "18684ebb448fe34ec152f2a0645c1d8bd85cd0d1b2281929467833036e74352f",
+      "file": "texts/pg-72411.txt",
+      "provenance": "provenance/pg-72411.json",
+      "read": "https://bibliothecacatholica.com/#/read/glories-of-mary/pg-72411",
+      "details": "https://bibliothecacatholica.com/work/glories-of-mary/"
+    },
+    {
+      "workId": "paradoxes-catholicism",
+      "editionId": "pg-16309",
+      "title": "Paradoxes of Catholicism",
+      "author": "Robert Hugh Benson",
+      "language": "English",
+      "edition": "Project Gutenberg #16309",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/16309",
+      "checked": "2026-10-22",
+      "bytes": 217053,
+      "sha256": "981dd3afc08ab950db53c0bcb5f4ec2b3de7a6ad3e8cdc9dfc75a73774c1f131",
+      "file": "texts/pg-16309.txt",
+      "provenance": "provenance/pg-16309.json",
+      "read": "https://bibliothecacatholica.com/#/read/paradoxes-catholicism/pg-16309",
+      "details": "https://bibliothecacatholica.com/work/paradoxes-catholicism/"
     }
   ]
 }
