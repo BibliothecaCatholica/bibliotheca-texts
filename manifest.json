@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "origin": "https://texts.bibliothecacatholica.com",
-  "sourceCommit": "8f83d5d0fdd7a56b4acbfedbe94a2e901b14e442",
-  "totalBytes": 24391271,
+  "sourceCommit": "045b9f85ee87fc5da9e52b9766042cbdd38af7e0",
+  "totalBytes": 37198932,
   "documents": [
     {
       "workId": "confessions",
@@ -881,6 +881,293 @@
       "provenance": "provenance/pg-16309.json",
       "read": "https://bibliothecacatholica.com/#/read/paradoxes-catholicism/pg-16309",
       "details": "https://bibliothecacatholica.com/work/paradoxes-catholicism/"
+    },
+    {
+      "workId": "butler-lives-january-march",
+      "editionId": "pg-20450",
+      "title": "The Lives of the Saints: January, February, and March",
+      "author": "Alban Butler",
+      "language": "English",
+      "edition": "Project Gutenberg #20450",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/20450",
+      "checked": "2026-10-25",
+      "bytes": 2803531,
+      "sha256": "0567160470a1f8d029c4ebda775c5dc2e0a569b359a789ee462874c3d27c20b9",
+      "file": "texts/pg-20450.txt",
+      "provenance": "provenance/pg-20450.json",
+      "read": "https://bibliothecacatholica.com/#/read/butler-lives-january-march/pg-20450",
+      "details": "https://bibliothecacatholica.com/work/butler-lives-january-march/"
+    },
+    {
+      "workId": "butler-lives-july",
+      "editionId": "pg-49604",
+      "title": "The Lives of the Saints: July",
+      "author": "Alban Butler",
+      "language": "English",
+      "edition": "Project Gutenberg #49604",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/49604",
+      "checked": "2026-10-25",
+      "bytes": 1142789,
+      "sha256": "d790562e8e394eef5364b9e8ee3c55ea7cfba8ba706bb0a496e127367ccbdf2f",
+      "file": "texts/pg-49604.txt",
+      "provenance": "provenance/pg-49604.json",
+      "read": "https://bibliothecacatholica.com/#/read/butler-lives-july/pg-49604",
+      "details": "https://bibliothecacatholica.com/work/butler-lives-july/"
+    },
+    {
+      "workId": "baring-gould-lives-january",
+      "editionId": "pg-46947",
+      "title": "The Lives of the Saints: January",
+      "author": "Sabine Baring-Gould",
+      "language": "English",
+      "edition": "Project Gutenberg #46947",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/46947",
+      "checked": "2026-10-25",
+      "bytes": 941461,
+      "sha256": "2b536f5b99e5078766aad0ce7080e6eee1257e5e4bfdd56d80296feada8be26f",
+      "file": "texts/pg-46947.txt",
+      "provenance": "provenance/pg-46947.json",
+      "read": "https://bibliothecacatholica.com/#/read/baring-gould-lives-january/pg-46947",
+      "details": "https://bibliothecacatholica.com/work/baring-gould-lives-january/"
+    },
+    {
+      "workId": "baring-gould-lives-february",
+      "editionId": "pg-45604",
+      "title": "The Lives of the Saints: February",
+      "author": "Sabine Baring-Gould",
+      "language": "English",
+      "edition": "Project Gutenberg #45604",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/45604",
+      "checked": "2026-10-25",
+      "bytes": 852736,
+      "sha256": "a9764942247dbca66e2e0e8192d9950c75a2d075eea441da364f7c6cc1ace883",
+      "file": "texts/pg-45604.txt",
+      "provenance": "provenance/pg-45604.json",
+      "read": "https://bibliothecacatholica.com/#/read/baring-gould-lives-february/pg-45604",
+      "details": "https://bibliothecacatholica.com/work/baring-gould-lives-february/"
+    },
+    {
+      "workId": "baring-gould-lives-march",
+      "editionId": "pg-48395",
+      "title": "The Lives of the Saints: March",
+      "author": "Sabine Baring-Gould",
+      "language": "English",
+      "edition": "Project Gutenberg #48395",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/48395",
+      "checked": "2026-10-25",
+      "bytes": 975540,
+      "sha256": "74726e4461b64679287857627fc526ed5a9287d3e3f45042698266a9540612d6",
+      "file": "texts/pg-48395.txt",
+      "provenance": "provenance/pg-48395.json",
+      "read": "https://bibliothecacatholica.com/#/read/baring-gould-lives-march/pg-48395",
+      "details": "https://bibliothecacatholica.com/work/baring-gould-lives-march/"
+    },
+    {
+      "workId": "virgin-saints-and-martyrs",
+      "editionId": "pg-53841",
+      "title": "Virgin Saints and Martyrs",
+      "author": "Sabine Baring-Gould",
+      "language": "English",
+      "edition": "Project Gutenberg #53841",
+      "contributors": [
+        {
+          "role": "illustrator",
+          "name": "Anger, F."
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/53841",
+      "checked": "2026-10-25",
+      "bytes": 403297,
+      "sha256": "b54ebe1bc39d5ec3094aeb22724f41e67631c6b6a027df46fb89f826be116aa9",
+      "file": "texts/pg-53841.txt",
+      "provenance": "provenance/pg-53841.json",
+      "read": "https://bibliothecacatholica.com/#/read/virgin-saints-and-martyrs/pg-53841",
+      "details": "https://bibliothecacatholica.com/work/virgin-saints-and-martyrs/"
+    },
+    {
+      "workId": "sacred-legendary-art",
+      "editionId": "pg-69581",
+      "title": "Sacred and Legendary Art",
+      "author": "Anna Jameson",
+      "language": "English",
+      "edition": "Project Gutenberg #69581 (vol. 1 of 2)",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/69581",
+      "checked": "2026-10-25",
+      "bytes": 887840,
+      "sha256": "bb7ad07b7eb7cb6ba6fdcf65f8b49ddb6419d4e8d47f3396139c1af89cff6ac1",
+      "file": "texts/pg-69581.txt",
+      "provenance": "provenance/pg-69581.json",
+      "read": "https://bibliothecacatholica.com/#/read/sacred-legendary-art/pg-69581",
+      "details": "https://bibliothecacatholica.com/work/sacred-legendary-art/"
+    },
+    {
+      "workId": "legends-of-the-madonna",
+      "editionId": "pg-12047",
+      "title": "Legends of the Madonna",
+      "author": "Anna Jameson",
+      "language": "English",
+      "edition": "Project Gutenberg #12047",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/12047",
+      "checked": "2026-10-25",
+      "bytes": 753219,
+      "sha256": "5b401fbf6df73b3a8a20381a54c9388203c8b4c92c053bb5111b6cb94001e41e",
+      "file": "texts/pg-12047.txt",
+      "provenance": "provenance/pg-12047.json",
+      "read": "https://bibliothecacatholica.com/#/read/legends-of-the-madonna/pg-12047",
+      "details": "https://bibliothecacatholica.com/work/legends-of-the-madonna/"
+    },
+    {
+      "workId": "child-book-of-saints",
+      "editionId": "pg-22112",
+      "title": "A Child's Book of Saints",
+      "author": "William Canton",
+      "language": "English",
+      "edition": "Project Gutenberg #22112",
+      "contributors": [
+        {
+          "role": "illustrator",
+          "name": "Robinson, T. H. (Thomas Heath), 1869-1954"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/22112",
+      "checked": "2026-10-25",
+      "bytes": 355836,
+      "sha256": "a8c80fffb73152fd7b1a882610eddb79f732ff409e411e55c3c40d68a3c199b7",
+      "file": "texts/pg-22112.txt",
+      "provenance": "provenance/pg-22112.json",
+      "read": "https://bibliothecacatholica.com/#/read/child-book-of-saints/pg-22112",
+      "details": "https://bibliothecacatholica.com/work/child-book-of-saints/"
+    },
+    {
+      "workId": "sabatier-francis",
+      "editionId": "pg-18787",
+      "title": "Life of St. Francis of Assisi",
+      "author": "Paul Sabatier",
+      "language": "English",
+      "edition": "Project Gutenberg #18787",
+      "contributors": [
+        {
+          "role": "translator",
+          "name": "Houghton, Louise Seymour, 1838-1920"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/18787",
+      "checked": "2026-10-25",
+      "bytes": 967037,
+      "sha256": "78524402abc1fc7e2c0b9e5b4a1bf645a918a1bde7a22f03bb16b7a593d5b812",
+      "file": "texts/pg-18787.txt",
+      "provenance": "provenance/pg-18787.json",
+      "read": "https://bibliothecacatholica.com/#/read/sabatier-francis/pg-18787",
+      "details": "https://bibliothecacatholica.com/work/sabatier-francis/"
+    },
+    {
+      "workId": "life-legends-francis",
+      "editionId": "pg-6367",
+      "title": "The Life and Legends of Saint Francis of Assisi",
+      "author": "Candide Chalippe, O.F.M.",
+      "language": "English",
+      "edition": "Project Gutenberg #6367",
+      "contributors": [
+        {
+          "role": "editor",
+          "name": "Duerk, Hilarion, 1883-1954"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/6367",
+      "checked": "2026-10-25",
+      "bytes": 949694,
+      "sha256": "8e26cea04bdbeb34c97c42d40c3e3da00891161594a91a5a47083b40a678daf7",
+      "file": "texts/pg-6367.txt",
+      "provenance": "provenance/pg-6367.json",
+      "read": "https://bibliothecacatholica.com/#/read/life-legends-francis/pg-6367",
+      "details": "https://bibliothecacatholica.com/work/life-legends-francis/"
+    },
+    {
+      "workId": "legends-of-saint-patrick",
+      "editionId": "pg-7165",
+      "title": "The Legends of Saint Patrick",
+      "author": "Aubrey de Vere",
+      "language": "English",
+      "edition": "Project Gutenberg #7165",
+      "contributors": [
+        {
+          "role": "author of introduction",
+          "name": "Morley, Henry, 1822-1894"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/7165",
+      "checked": "2026-10-25",
+      "bytes": 298471,
+      "sha256": "7afec0631c8cbb0d8766902a32bfb3d5a58cc72daac74715ac1de342131f4b1d",
+      "file": "texts/pg-7165.txt",
+      "provenance": "provenance/pg-7165.json",
+      "read": "https://bibliothecacatholica.com/#/read/legends-of-saint-patrick/pg-7165",
+      "details": "https://bibliothecacatholica.com/work/legends-of-saint-patrick/"
+    },
+    {
+      "workId": "ancient-lives-saint-patrick",
+      "editionId": "pg-18482",
+      "title": "The Most Ancient Lives of Saint Patrick",
+      "author": "James O'Leary (ed.)",
+      "language": "English",
+      "edition": "Project Gutenberg #18482",
+      "contributors": [
+        {
+          "role": "editor",
+          "name": "O'Leary, James"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/18482",
+      "checked": "2026-10-25",
+      "bytes": 607862,
+      "sha256": "c5dff515aa87f3dea983fb9b469cb6189318dd8fe6719c963eace5de914e418b",
+      "file": "texts/pg-18482.txt",
+      "provenance": "provenance/pg-18482.json",
+      "read": "https://bibliothecacatholica.com/#/read/ancient-lives-saint-patrick/pg-18482",
+      "details": "https://bibliothecacatholica.com/work/ancient-lives-saint-patrick/"
+    },
+    {
+      "workId": "fabiola",
+      "editionId": "pg-62254",
+      "title": "Fabiola; or, The Church of the Catacombs",
+      "author": "Nicholas Wiseman",
+      "language": "English",
+      "edition": "Project Gutenberg #62254",
+      "contributors": [
+        {
+          "role": "author of introduction",
+          "name": "Brennan, Richard, 1833?-1893"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/62254",
+      "checked": "2026-10-25",
+      "bytes": 868348,
+      "sha256": "685d8c6b6efa50e89dfff95e9d6e427b63c060a32b0c12775baa6fd68f4bafb5",
+      "file": "texts/pg-62254.txt",
+      "provenance": "provenance/pg-62254.json",
+      "read": "https://bibliothecacatholica.com/#/read/fabiola/pg-62254",
+      "details": "https://bibliothecacatholica.com/work/fabiola/"
     }
   ]
 }
