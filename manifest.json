@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "origin": "https://texts.bibliothecacatholica.com",
-  "sourceCommit": "62266faad5421d130543c5a89383b0b359d958f0",
-  "totalBytes": 37575233,
+  "sourceCommit": "dd3a8f5ad647e2b1a05a5eed5d4da10a4ce579d0",
+  "totalBytes": 50362600,
   "documents": [
     {
       "workId": "confessions",
@@ -674,6 +674,98 @@
       "provenance": "provenance/pg-48927.json",
       "read": "https://bibliothecacatholica.com/#/read/dream-gerontius/pg-48927",
       "details": "https://bibliothecacatholica.com/work/dream-gerontius/"
+    },
+    {
+      "workId": "summa-theologiae",
+      "editionId": "pg-17611",
+      "title": "Summa Theologiae",
+      "author": "Thomas Aquinas",
+      "language": "English",
+      "edition": "Project Gutenberg #17611, First Part (Prima Pars)",
+      "contributors": [
+        {
+          "role": "translator",
+          "name": "Fathers of the English Dominican Province"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/17611",
+      "checked": "2026-11-09",
+      "bytes": 2911941,
+      "sha256": "c9443221a31768991db4bbe37e6ed035b278143a6728af64dc8ba0cf8e79154d",
+      "file": "texts/pg-17611.txt",
+      "provenance": "provenance/pg-17611.json",
+      "read": "https://bibliothecacatholica.com/#/read/summa-theologiae/pg-17611",
+      "details": "https://bibliothecacatholica.com/work/summa-theologiae/"
+    },
+    {
+      "workId": "summa-theologiae",
+      "editionId": "pg-17897",
+      "title": "Summa Theologiae",
+      "author": "Thomas Aquinas",
+      "language": "English",
+      "edition": "Project Gutenberg #17897, First Part of the Second Part (Prima Secundae)",
+      "contributors": [
+        {
+          "role": "translator",
+          "name": "Fathers of the English Dominican Province"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/17897",
+      "checked": "2026-11-09",
+      "bytes": 2903048,
+      "sha256": "9722b299e1a91c43f989a282ebd857c92fdde442611035cba002f94b817c2be0",
+      "file": "texts/pg-17897.txt",
+      "provenance": "provenance/pg-17897.json",
+      "read": "https://bibliothecacatholica.com/#/read/summa-theologiae/pg-17897",
+      "details": "https://bibliothecacatholica.com/work/summa-theologiae/"
+    },
+    {
+      "workId": "summa-theologiae",
+      "editionId": "pg-18755",
+      "title": "Summa Theologiae",
+      "author": "Thomas Aquinas",
+      "language": "English",
+      "edition": "Project Gutenberg #18755, Second Part of the Second Part (Secunda Secundae)",
+      "contributors": [
+        {
+          "role": "translator",
+          "name": "Fathers of the English Dominican Province"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/18755",
+      "checked": "2026-11-09",
+      "bytes": 4214843,
+      "sha256": "eeea1030b31e6c5d4b6fb7522770f108902d704cb2eee56bae1b10b1afa57b6f",
+      "file": "texts/pg-18755.txt",
+      "provenance": "provenance/pg-18755.json",
+      "read": "https://bibliothecacatholica.com/#/read/summa-theologiae/pg-18755",
+      "details": "https://bibliothecacatholica.com/work/summa-theologiae/"
+    },
+    {
+      "workId": "summa-theologiae",
+      "editionId": "pg-19950",
+      "title": "Summa Theologiae",
+      "author": "Thomas Aquinas",
+      "language": "English",
+      "edition": "Project Gutenberg #19950, Third Part (Tertia Pars)",
+      "contributors": [
+        {
+          "role": "translator",
+          "name": "Fathers of the English Dominican Province"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/19950",
+      "checked": "2026-11-09",
+      "bytes": 2757535,
+      "sha256": "4adb238f7c98be1c4c7d71275d29d479d923d2c447d16a692365c79ada81cdb5",
+      "file": "texts/pg-19950.txt",
+      "provenance": "provenance/pg-19950.json",
+      "read": "https://bibliothecacatholica.com/#/read/summa-theologiae/pg-19950",
+      "details": "https://bibliothecacatholica.com/work/summa-theologiae/"
     },
     {
       "workId": "aquinas-prayer-contemplative",
