@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "origin": "https://texts.bibliothecacatholica.com",
-  "sourceCommit": "1dc6e76ea889d515e0e559a20c97311785c2c4fc",
-  "totalBytes": 50362600,
+  "sourceCommit": "8a0fdfe2649d87396eed5567717a0e0b13da3256",
+  "totalBytes": 52509406,
   "documents": [
     {
       "workId": "confessions",
@@ -765,6 +765,29 @@
       "file": "texts/pg-19950.txt",
       "provenance": "provenance/pg-19950.json",
       "read": "https://bibliothecacatholica.com/#/read/summa-theologiae/pg-19950",
+      "details": "https://bibliothecacatholica.com/work/summa-theologiae/"
+    },
+    {
+      "workId": "summa-theologiae",
+      "editionId": "ia-summa-supplement",
+      "title": "Summa Theologiae",
+      "author": "Thomas Aquinas",
+      "language": "English",
+      "edition": "Supplement to the Third Part (Supplementum Tertiae Partis), transcribed from Internet Archive scans",
+      "contributors": [
+        {
+          "role": "translator",
+          "name": "Fathers of the English Dominican Province"
+        }
+      ],
+      "rights": "Public domain in the USA. Printed in 1917, 1921, and 1922, before 1931. Outside the U.S., check local copyright rules.",
+      "source": "https://archive.org/details/summatheologicao0000unse_f4n0",
+      "checked": "2026-11-09",
+      "bytes": 2146806,
+      "sha256": "0b924be164199ec94207cc66fe0e3712f2a0325d09c71ea4da60dd073e2b0586",
+      "file": "texts/ia-summa-supplement.txt",
+      "provenance": "provenance/ia-summa-supplement.json",
+      "read": "https://bibliothecacatholica.com/#/read/summa-theologiae/ia-summa-supplement",
       "details": "https://bibliothecacatholica.com/work/summa-theologiae/"
     },
     {
