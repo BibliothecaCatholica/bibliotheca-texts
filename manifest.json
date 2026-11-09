@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "origin": "https://texts.bibliothecacatholica.com",
-  "sourceCommit": "f71f130b2fa9fe4af709a62afef8d7977aada357",
-  "totalBytes": 52973478,
+  "sourceCommit": "459551a722cc2bcf765b4dd5f03ef84f91225862",
+  "totalBytes": 53378254,
   "documents": [
     {
       "workId": "confessions",
@@ -270,20 +270,20 @@
     },
     {
       "workId": "orthodoxy",
-      "editionId": "pg-16769",
+      "editionId": "pg-130",
       "title": "Orthodoxy",
       "author": "G. K. Chesterton",
       "language": "English",
-      "edition": "Project Gutenberg #16769",
+      "edition": "Project Gutenberg #130",
       "contributors": [],
-      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
-      "source": "https://www.gutenberg.org/ebooks/16769",
-      "checked": "2026-10-21",
-      "bytes": 378867,
-      "sha256": "05bc190064cbe4415a912a1a03c29b427f6f0c61d723d899391aba67e0a72257",
-      "file": "texts/pg-16769.txt",
-      "provenance": "provenance/pg-16769.json",
-      "read": "https://bibliothecacatholica.com/#/read/orthodoxy/pg-16769",
+      "rights": "Public domain in the USA. First published 1908, before 1931. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/130",
+      "checked": "2026-11-09",
+      "bytes": 382206,
+      "sha256": "ec525c93afddb05465bf6fa0af8f873078b8e42a2a24f9b999582994f054fdf2",
+      "file": "texts/pg-130.txt",
+      "provenance": "provenance/pg-130.json",
+      "read": "https://bibliothecacatholica.com/#/read/orthodoxy/pg-130",
       "details": "https://bibliothecacatholica.com/work/orthodoxy/"
     },
     {
@@ -547,6 +547,24 @@
       "provenance": "provenance/pg-223.json",
       "read": "https://bibliothecacatholica.com/#/read/wisdom-father-brown/pg-223",
       "details": "https://bibliothecacatholica.com/work/wisdom-father-brown/"
+    },
+    {
+      "workId": "incredulity-father-brown",
+      "editionId": "se-incredulity-father-brown",
+      "title": "The Incredulity of Father Brown",
+      "author": "G. K. Chesterton",
+      "language": "English",
+      "edition": "Standard Ebooks edition, corrected to the 1926 printings",
+      "contributors": [],
+      "rights": "Public domain in the USA. First published 1926, before 1931 (US copyright in 1926 works expired on January 1, 2022). Standard Ebooks dedicates its own work to the public domain (CC0 1.0). Outside the U.S., check local copyright rules.",
+      "source": "https://standardebooks.org/ebooks/g-k-chesterton/the-incredulity-of-father-brown",
+      "checked": "2026-11-09",
+      "bytes": 401437,
+      "sha256": "ffa83348a7a49c054b30119cc0ce8afa429ef006fb5b12f361a52f8a1370bd44",
+      "file": "texts/se-incredulity-father-brown.txt",
+      "provenance": "provenance/se-incredulity-father-brown.json",
+      "read": "https://bibliothecacatholica.com/#/read/incredulity-father-brown/se-incredulity-father-brown",
+      "details": "https://bibliothecacatholica.com/work/incredulity-father-brown/"
     },
     {
       "workId": "secret-father-brown",
