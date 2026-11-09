@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "origin": "https://texts.bibliothecacatholica.com",
-  "sourceCommit": "8a0fdfe2649d87396eed5567717a0e0b13da3256",
-  "totalBytes": 52509406,
+  "sourceCommit": "f71f130b2fa9fe4af709a62afef8d7977aada357",
+  "totalBytes": 52973478,
   "documents": [
     {
       "workId": "confessions",
@@ -26,6 +26,33 @@
       "provenance": "provenance/pg-3296.json",
       "read": "https://bibliothecacatholica.com/#/read/confessions/pg-3296",
       "details": "https://bibliothecacatholica.com/work/confessions/"
+    },
+    {
+      "workId": "on-christian-doctrine",
+      "editionId": "ccel-npnf102-doctrine",
+      "title": "On Christian Doctrine",
+      "author": "Augustine of Hippo",
+      "language": "English",
+      "edition": "Shaw translation (NPNF Series I, Vol. II)",
+      "contributors": [
+        {
+          "role": "translator",
+          "name": "Shaw, J. F. (Rev. Professor J. F. Shaw, of Londonderry)"
+        },
+        {
+          "role": "editor",
+          "name": "Schaff, Philip, 1819-1893"
+        }
+      ],
+      "rights": "Public domain in the USA. Shaw translation 1873; NPNF Series I, Volume II printings 1887 and 1890, before 1931. Outside the U.S., check local copyright rules.",
+      "source": "https://www.ccel.org/ccel/schaff/npnf102.html",
+      "checked": "2026-11-09",
+      "bytes": 464072,
+      "sha256": "3d3f5411ae851572805e2a1ee62b0073d27fb85c2cb6af1c852968d1c6e8caad",
+      "file": "texts/ccel-npnf102-doctrine.txt",
+      "provenance": "provenance/ccel-npnf102-doctrine.json",
+      "read": "https://bibliothecacatholica.com/#/read/on-christian-doctrine/ccel-npnf102-doctrine",
+      "details": "https://bibliothecacatholica.com/work/on-christian-doctrine/"
     },
     {
       "workId": "imitation-of-christ",
