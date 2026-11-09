@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "origin": "https://texts.bibliothecacatholica.com",
-  "sourceCommit": "5a80f1ba6b46b6c369de0f8cf21bc3251a95b6e9",
-  "totalBytes": 37198932,
+  "sourceCommit": "62266faad5421d130543c5a89383b0b359d958f0",
+  "totalBytes": 37575233,
   "documents": [
     {
       "workId": "confessions",
@@ -520,6 +520,24 @@
       "provenance": "provenance/pg-223.json",
       "read": "https://bibliothecacatholica.com/#/read/wisdom-father-brown/pg-223",
       "details": "https://bibliothecacatholica.com/work/wisdom-father-brown/"
+    },
+    {
+      "workId": "secret-father-brown",
+      "editionId": "pg-70175",
+      "title": "The Secret of Father Brown",
+      "author": "G. K. Chesterton",
+      "language": "English",
+      "edition": "Project Gutenberg #70175",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg notices retained.",
+      "source": "https://www.gutenberg.org/ebooks/70175",
+      "checked": "2026-11-09",
+      "bytes": 376301,
+      "sha256": "4b38b49ea7d940aded60d38f97ef8cec77c8fd9c533eb7158d21782722cba875",
+      "file": "texts/pg-70175.txt",
+      "provenance": "provenance/pg-70175.json",
+      "read": "https://bibliothecacatholica.com/#/read/secret-father-brown/pg-70175",
+      "details": "https://bibliothecacatholica.com/work/secret-father-brown/"
     },
     {
       "workId": "ballad-white-horse",
