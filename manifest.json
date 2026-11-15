@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "origin": "https://texts.bibliothecacatholica.com",
-  "sourceCommit": "2fc5374fedb85a0f1c0640ffc893157bcda5d8d8",
-  "totalBytes": 67911797,
+  "sourceCommit": "3fd617ed33bb26fa6a575701190673f0fb2d9e1d",
+  "totalBytes": 68625856,
   "documents": [
     {
       "workId": "confessions",
@@ -2411,6 +2411,42 @@
       "provenance": "provenance/pg-70690.json",
       "read": "https://bibliothecacatholica.com/#/read/trial-of-john-jasper/pg-70690",
       "details": "https://bibliothecacatholica.com/work/trial-of-john-jasper/"
+    },
+    {
+      "workId": "jesuit-martyrs-of-canada",
+      "editionId": "fp-20240310",
+      "title": "The Jesuit Martyrs of Canada",
+      "author": "E. J. Devine, S.J.",
+      "language": "English",
+      "edition": "Faded Page #20240310",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Faded Page notices retained.",
+      "source": "https://www.fadedpage.com/showbook.php?pid=20240310",
+      "checked": "2026-11-15",
+      "bytes": 347234,
+      "sha256": "7581841808cfef4628415e3d97059b79873bd25b251d5f0f5d3c0bb4e8ab991d",
+      "file": "texts/fp-20240310.txt",
+      "provenance": "provenance/fp-20240310.json",
+      "read": "https://bibliothecacatholica.com/#/read/jesuit-martyrs-of-canada/fp-20240310",
+      "details": "https://bibliothecacatholica.com/work/jesuit-martyrs-of-canada/"
+    },
+    {
+      "workId": "footsteps-at-the-lock",
+      "editionId": "fp-20090501",
+      "title": "The Footsteps at the Lock",
+      "author": "Ronald A. Knox",
+      "language": "English",
+      "edition": "Faded Page #20090501",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Faded Page notices retained.",
+      "source": "https://www.fadedpage.com/showbook.php?pid=20090501",
+      "checked": "2026-11-15",
+      "bytes": 366825,
+      "sha256": "2d55619ba25d9812fcf844dca57f5dd584d76a5d39e358fb87daea490d663d92",
+      "file": "texts/fp-20090501.txt",
+      "provenance": "provenance/fp-20090501.json",
+      "read": "https://bibliothecacatholica.com/#/read/footsteps-at-the-lock/fp-20090501",
+      "details": "https://bibliothecacatholica.com/work/footsteps-at-the-lock/"
     }
   ]
 }
