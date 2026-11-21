@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "origin": "https://texts.bibliothecacatholica.com",
-  "sourceCommit": "a1673abb5f2554ac7b723a7d0f002e3403f0ac81",
-  "totalBytes": 71827733,
+  "sourceCommit": "f84eec03b2015e40e2c14a2d48a3db51668c1e46",
+  "totalBytes": 75399297,
   "documents": [
     {
       "workId": "confessions",
@@ -1059,6 +1059,70 @@
       "provenance": "provenance/pg-16309.json",
       "read": "https://bibliothecacatholica.com/#/read/paradoxes-catholicism/pg-16309",
       "details": "https://bibliothecacatholica.com/work/paradoxes-catholicism/"
+    },
+    {
+      "workId": "council-of-trent",
+      "editionId": "peo-trent-1848-r2",
+      "title": "The Canons and Decrees of the Council of Trent",
+      "author": "Council of Trent",
+      "language": "English",
+      "edition": "Waterworth translation (London: C. Dolman, 1848), Hanover Historical Texts transcription, corrected",
+      "contributors": [
+        {
+          "role": "translator",
+          "name": "Waterworth, J."
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Papal Encyclicals Online notices retained.",
+      "source": "https://www.papalencyclicals.net/councils/trent.htm",
+      "checked": "2026-11-20",
+      "bytes": 558860,
+      "sha256": "a276393839a4f271e5f68ffa756229b2819b4bce4cc077d6e7c68446d5cf65af",
+      "file": "texts/peo-trent-1848-r2.txt",
+      "provenance": "provenance/peo-trent-1848-r2.json",
+      "read": "https://bibliothecacatholica.com/#/read/council-of-trent/peo-trent-1848-r2",
+      "details": "https://bibliothecacatholica.com/work/council-of-trent/"
+    },
+    {
+      "workId": "council-of-trent",
+      "editionId": "peo-trent-1848",
+      "title": "The Canons and Decrees of the Council of Trent",
+      "author": "Council of Trent",
+      "language": "English",
+      "edition": "Waterworth translation (London: C. Dolman, 1848), Hanover Historical Texts transcription (retired; replaced by the corrected edition)",
+      "contributors": [
+        {
+          "role": "translator",
+          "name": "Waterworth, J."
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Papal Encyclicals Online notices retained.",
+      "source": "https://www.papalencyclicals.net/councils/trent.htm",
+      "checked": "2026-11-20",
+      "bytes": 558594,
+      "sha256": "9de7346c18740535da817d02b430130a044c8150fbd1bfe930c36f09103a309b",
+      "file": "texts/peo-trent-1848.txt",
+      "provenance": "provenance/peo-trent-1848.json",
+      "read": "https://bibliothecacatholica.com/#/read/council-of-trent/peo-trent-1848",
+      "details": "https://bibliothecacatholica.com/work/council-of-trent/"
+    },
+    {
+      "workId": "catholic-encyclopedia-advent",
+      "editionId": "ia-cathencyc-1907-advent",
+      "title": "Advent (The Catholic Encyclopedia, 1907)",
+      "author": "Francis Mershman",
+      "language": "English",
+      "edition": "Transcription of the Internet Archive scan (New York: Robert Appleton Company, 1907), vol. 1, pp. 165-166",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules.",
+      "source": "https://archive.org/details/07470918.1.emory.edu",
+      "checked": "2026-11-20",
+      "bytes": 9768,
+      "sha256": "8af5f9499f68732086056b24bc9ec0098e48d99a726e07820b7dfa81a02c6e01",
+      "file": "texts/ia-cathencyc-1907-advent.txt",
+      "provenance": "provenance/ia-cathencyc-1907-advent.json",
+      "read": "https://bibliothecacatholica.com/#/read/catholic-encyclopedia-advent/ia-cathencyc-1907-advent",
+      "details": "https://bibliothecacatholica.com/work/catholic-encyclopedia-advent/"
     },
     {
       "workId": "butler-lives-january-march",
@@ -2503,6 +2567,24 @@
       "details": "https://bibliothecacatholica.com/work/outline-of-sanity/"
     },
     {
+      "workId": "superstitions-of-the-sceptic",
+      "editionId": "ia-superstitionsofs0000unse-q9f6",
+      "title": "The Superstitions of the Sceptic",
+      "author": "G. K. Chesterton",
+      "language": "English",
+      "edition": "Transcription of the Internet Archive scan (Cambridge: W. Heffer and Sons, 1925)",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules.",
+      "source": "https://archive.org/details/superstitionsofs0000unse_q9f6",
+      "checked": "2026-11-21",
+      "bytes": 80720,
+      "sha256": "9194287ecc528b22e1520627d0adf0dd8b57f2259d29f75806519509414e75ff",
+      "file": "texts/ia-superstitionsofs0000unse-q9f6.txt",
+      "provenance": "provenance/ia-superstitionsofs0000unse-q9f6.json",
+      "read": "https://bibliothecacatholica.com/#/read/superstitions-of-the-sceptic/ia-superstitionsofs0000unse-q9f6",
+      "details": "https://bibliothecacatholica.com/work/superstitions-of-the-sceptic/"
+    },
+    {
       "workId": "generally-speaking",
       "editionId": "ia-generallyspeakin00ches-r2",
       "title": "Generally Speaking",
@@ -2539,6 +2621,42 @@
       "details": "https://bibliothecacatholica.com/work/generally-speaking/"
     },
     {
+      "workId": "do-we-agree",
+      "editionId": "ia-doweagree0000gkch",
+      "title": "Do We Agree? A Debate between G. K. Chesterton and Bernard Shaw",
+      "author": "G. K. Chesterton",
+      "language": "English",
+      "edition": "Transcription of the Internet Archive scan (London: Cecil Palmer, 1928)",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules.",
+      "source": "https://archive.org/details/doweagree0000gkch",
+      "checked": "2026-11-21",
+      "bytes": 47480,
+      "sha256": "8b16e265d64bc464f7207fa7a33bac5fb8c1253cd5d8738831bbd33e4987c980",
+      "file": "texts/ia-doweagree0000gkch.txt",
+      "provenance": "provenance/ia-doweagree0000gkch.json",
+      "read": "https://bibliothecacatholica.com/#/read/do-we-agree/ia-doweagree0000gkch",
+      "details": "https://bibliothecacatholica.com/work/do-we-agree/"
+    },
+    {
+      "workId": "gkc-as-mc",
+      "editionId": "ia-gkcasmcbeingcoll0000gkch",
+      "title": "G.K.C. as M.C.",
+      "author": "G. K. Chesterton",
+      "language": "English",
+      "edition": "Transcription of the Internet Archive scan (London: Methuen, 1929)",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules.",
+      "source": "https://archive.org/details/gkcasmcbeingcoll0000gkch",
+      "checked": "2026-11-21",
+      "bytes": 360124,
+      "sha256": "a56928813abd1ea0b41a7f95af7a79908ea1e1bd33eb70ef56eec605817c38b4",
+      "file": "texts/ia-gkcasmcbeingcoll0000gkch.txt",
+      "provenance": "provenance/ia-gkcasmcbeingcoll0000gkch.json",
+      "read": "https://bibliothecacatholica.com/#/read/gkc-as-mc/ia-gkcasmcbeingcoll0000gkch",
+      "details": "https://bibliothecacatholica.com/work/gkc-as-mc/"
+    },
+    {
       "workId": "simplicity-and-tolstoy",
       "editionId": "ia-simplicitytolsto00chesuoft",
       "title": "Simplicity and Tolstoy",
@@ -2555,6 +2673,24 @@
       "provenance": "provenance/ia-simplicitytolsto00chesuoft.json",
       "read": "https://bibliothecacatholica.com/#/read/simplicity-and-tolstoy/ia-simplicitytolsto00chesuoft",
       "details": "https://bibliothecacatholica.com/work/simplicity-and-tolstoy/"
+    },
+    {
+      "workId": "samuel-johnson-meynell",
+      "editionId": "ia-samueljohnson00chesuoft",
+      "title": "Samuel Johnson",
+      "author": "G. K. Chesterton",
+      "language": "English",
+      "edition": "Transcription of the Internet Archive scan (London: Herbert and Daniel, 1911)",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules.",
+      "source": "https://archive.org/details/samueljohnson00chesuoft",
+      "checked": "2026-11-21",
+      "bytes": 324912,
+      "sha256": "38ccf5ecbc3b10f663791d8a105828fe674fa9ecb6a76e1ddeebb255eb4025a6",
+      "file": "texts/ia-samueljohnson00chesuoft.txt",
+      "provenance": "provenance/ia-samueljohnson00chesuoft.json",
+      "read": "https://bibliothecacatholica.com/#/read/samuel-johnson-meynell/ia-samueljohnson00chesuoft",
+      "details": "https://bibliothecacatholica.com/work/samuel-johnson-meynell/"
     },
     {
       "workId": "jesuit-martyrs-of-canada",
@@ -2593,6 +2729,24 @@
       "details": "https://bibliothecacatholica.com/work/footsteps-at-the-lock/"
     },
     {
+      "workId": "chesterton-robert-louis-stevenson",
+      "editionId": "ia-robertlouisstev00nicogoog",
+      "title": "Robert Louis Stevenson (Bookman Booklet)",
+      "author": "G. K. Chesterton and W. Robertson Nicoll",
+      "language": "English",
+      "edition": "Transcription of the Internet Archive scan (New York: James Pott & Company, 1906)",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules.",
+      "source": "https://archive.org/details/robertlouisstev00nicogoog",
+      "checked": "2026-11-21",
+      "bytes": 40615,
+      "sha256": "d05ba3320c02d3033cb8e8f376c9bfe81412adb2e3cb7eca1e5ae417c9cf86b8",
+      "file": "texts/ia-robertlouisstev00nicogoog.txt",
+      "provenance": "provenance/ia-robertlouisstev00nicogoog.json",
+      "read": "https://bibliothecacatholica.com/#/read/chesterton-robert-louis-stevenson/ia-robertlouisstev00nicogoog",
+      "details": "https://bibliothecacatholica.com/work/chesterton-robert-louis-stevenson/"
+    },
+    {
       "workId": "moore-prayer",
       "editionId": "ia-prayer00moor",
       "title": "Prayer",
@@ -2609,6 +2763,60 @@
       "provenance": "provenance/ia-prayer00moor.json",
       "read": "https://bibliothecacatholica.com/#/read/moore-prayer/ia-prayer00moor",
       "details": "https://bibliothecacatholica.com/work/moore-prayer/"
+    },
+    {
+      "workId": "walsh-worlds-debt-catholic-church",
+      "editionId": "pga-1100451",
+      "title": "The World's Debt to the Catholic Church",
+      "author": "James J. Walsh",
+      "language": "English",
+      "edition": "Project Gutenberg Australia #1100451",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg Australia notices retained.",
+      "source": "https://gutenberg.net.au/ebooks11/1100451h.html",
+      "checked": "2026-11-20",
+      "bytes": 528459,
+      "sha256": "825c2714a563f989bdd942ba37ce0fd8c1cf45828904617f222bb252755d2a8b",
+      "file": "texts/pga-1100451.txt",
+      "provenance": "provenance/pga-1100451.json",
+      "read": "https://bibliothecacatholica.com/#/read/walsh-worlds-debt-catholic-church/pga-1100451",
+      "details": "https://bibliothecacatholica.com/work/walsh-worlds-debt-catholic-church/"
+    },
+    {
+      "workId": "sword-of-wood",
+      "editionId": "pga-0900731",
+      "title": "The Sword of Wood",
+      "author": "G. K. Chesterton",
+      "language": "English",
+      "edition": "Project Gutenberg Australia #0900731",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg Australia notices retained.",
+      "source": "https://gutenberg.net.au/ebooks09/0900731h.html",
+      "checked": "2026-11-20",
+      "bytes": 29424,
+      "sha256": "9a3b1e932428117a78e17bf4264f097bab418aa25e23b543956789daeab710bf",
+      "file": "texts/pga-0900731.txt",
+      "provenance": "provenance/pga-0900731.json",
+      "read": "https://bibliothecacatholica.com/#/read/sword-of-wood/pga-0900731",
+      "details": "https://bibliothecacatholica.com/work/sword-of-wood/"
+    },
+    {
+      "workId": "baring-c",
+      "editionId": "pga-0500731",
+      "title": "C",
+      "author": "Maurice Baring",
+      "language": "English",
+      "edition": "Project Gutenberg Australia #0500731",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. Project Gutenberg Australia notices retained.",
+      "source": "https://gutenberg.net.au/ebooks05/0500731h.html",
+      "checked": "2026-11-20",
+      "bytes": 1032608,
+      "sha256": "81a9ecf6375d9adccc116eec3603bbbf9383d619ac883ed9bf5f4eb84edf5179",
+      "file": "texts/pga-0500731.txt",
+      "provenance": "provenance/pga-0500731.json",
+      "read": "https://bibliothecacatholica.com/#/read/baring-c/pga-0500731",
+      "details": "https://bibliothecacatholica.com/work/baring-c/"
     },
     {
       "workId": "haas-rights-and-wrongs-in-industry",
