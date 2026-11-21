@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "origin": "https://texts.bibliothecacatholica.com",
-  "sourceCommit": "f84eec03b2015e40e2c14a2d48a3db51668c1e46",
-  "totalBytes": 75399297,
+  "sourceCommit": "bbef072e184bab3c8ecb389f2e1f3c91c29ddc75",
+  "totalBytes": 75634058,
   "documents": [
     {
       "workId": "confessions",
@@ -1123,6 +1123,78 @@
       "provenance": "provenance/ia-cathencyc-1907-advent.json",
       "read": "https://bibliothecacatholica.com/#/read/catholic-encyclopedia-advent/ia-cathencyc-1907-advent",
       "details": "https://bibliothecacatholica.com/work/catholic-encyclopedia-advent/"
+    },
+    {
+      "workId": "catholic-encyclopedia-o-antiphons",
+      "editionId": "ia-cathencyc-1911-o-antiphons",
+      "title": "O Antiphons (The Catholic Encyclopedia, 1911)",
+      "author": "H. T. Henry",
+      "language": "English",
+      "edition": "Transcription of the Internet Archive scan (New York: Robert Appleton Company, 1911), vol. 11, p. 173",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules.",
+      "source": "https://archive.org/details/catholicencyclop0011vari_p3b3",
+      "checked": "2026-11-21",
+      "bytes": 5936,
+      "sha256": "b787de008d6a4eb8b68ab025ef1524a493d1fea4ca8ce9fbd15204ab976fc342",
+      "file": "texts/ia-cathencyc-1911-o-antiphons.txt",
+      "provenance": "provenance/ia-cathencyc-1911-o-antiphons.json",
+      "read": "https://bibliothecacatholica.com/#/read/catholic-encyclopedia-o-antiphons/ia-cathencyc-1911-o-antiphons",
+      "details": "https://bibliothecacatholica.com/work/catholic-encyclopedia-o-antiphons/"
+    },
+    {
+      "workId": "book-of-wisdom-douay-rheims",
+      "editionId": "ebible-dra-wisdom",
+      "title": "The Book of Wisdom (Douay-Rheims)",
+      "author": "Douay-Rheims Bible",
+      "language": "English",
+      "edition": "Douay-Rheims, American edition of 1899, eBible.org transcription",
+      "contributors": [
+        {
+          "role": "translator",
+          "name": "English College at Douay"
+        },
+        {
+          "role": "reviser",
+          "name": "Challoner, Richard"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. eBible.org notices retained.",
+      "source": "https://ebible.org/engDRA/",
+      "checked": "2026-11-21",
+      "bytes": 60221,
+      "sha256": "dc73766dc6cc0cc7860a86a56870c658f8613df65fe4e54bc0ca014d50f33c09",
+      "file": "texts/ebible-dra-wisdom.txt",
+      "provenance": "provenance/ebible-dra-wisdom.json",
+      "read": "https://bibliothecacatholica.com/#/read/book-of-wisdom-douay-rheims/ebible-dra-wisdom",
+      "details": "https://bibliothecacatholica.com/work/book-of-wisdom-douay-rheims/"
+    },
+    {
+      "workId": "ecclesiasticus-douay-rheims",
+      "editionId": "ebible-dra-ecclesiasticus",
+      "title": "Ecclesiasticus (Douay-Rheims)",
+      "author": "Douay-Rheims Bible",
+      "language": "English",
+      "edition": "Douay-Rheims, American edition of 1899, eBible.org transcription",
+      "contributors": [
+        {
+          "role": "translator",
+          "name": "English College at Douay"
+        },
+        {
+          "role": "reviser",
+          "name": "Challoner, Richard"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules. eBible.org notices retained.",
+      "source": "https://ebible.org/engDRA/",
+      "checked": "2026-11-21",
+      "bytes": 168604,
+      "sha256": "2378ab2fe96df31f629b117801e9ae9cdb7779814dde9de4e994c6f7eac04e39",
+      "file": "texts/ebible-dra-ecclesiasticus.txt",
+      "provenance": "provenance/ebible-dra-ecclesiasticus.json",
+      "read": "https://bibliothecacatholica.com/#/read/ecclesiasticus-douay-rheims/ebible-dra-ecclesiasticus",
+      "details": "https://bibliothecacatholica.com/work/ecclesiasticus-douay-rheims/"
     },
     {
       "workId": "butler-lives-january-march",
