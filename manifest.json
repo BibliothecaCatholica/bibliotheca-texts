@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "origin": "https://texts.bibliothecacatholica.com",
-  "sourceCommit": "bbef072e184bab3c8ecb389f2e1f3c91c29ddc75",
-  "totalBytes": 75634058,
+  "sourceCommit": "e441e4e60854ac25e8b18ae13af5ef33f5942a96",
+  "totalBytes": 76221558,
   "documents": [
     {
       "workId": "confessions",
@@ -1231,6 +1231,65 @@
       "provenance": "provenance/pg-49604.json",
       "read": "https://bibliothecacatholica.com/#/read/butler-lives-july/pg-49604",
       "details": "https://bibliothecacatholica.com/work/butler-lives-july/"
+    },
+    {
+      "workId": "butler-eulalia-merida",
+      "editionId": "ia-butler-1842-eulalia",
+      "title": "The Life of St. Eulalia of Merida",
+      "author": "Alban Butler",
+      "language": "English",
+      "edition": "Transcription of the Internet Archive scan (Derby: Printed by Richardson and Son, 1842), vol. XII, pp. 229-237",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules.",
+      "source": "https://archive.org/details/livesoffathersma12butl",
+      "checked": "2026-11-21",
+      "bytes": 18415,
+      "sha256": "46c201668ad1902a6a4c12839e2f58512a802403ceded3c63b975595673c491e",
+      "file": "texts/ia-butler-1842-eulalia.txt",
+      "provenance": "provenance/ia-butler-1842-eulalia.json",
+      "read": "https://bibliothecacatholica.com/#/read/butler-eulalia-merida/ia-butler-1842-eulalia",
+      "details": "https://bibliothecacatholica.com/work/butler-eulalia-merida/"
+    },
+    {
+      "workId": "jerome-isaiah-prologue",
+      "editionId": "cc-pl24-1845-isaiah-prologue",
+      "title": "Commentary on Isaiah, Prologue",
+      "author": "Jerome",
+      "language": "Latin",
+      "edition": "Corpus Corporum text of Migne, Patrologia Latina, volume 24 (Paris, 1845), columns 17-22, collated against the 1845 scan",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules.",
+      "source": "https://mlat.uzh.ch/?text=7170",
+      "checked": "2026-11-21",
+      "bytes": 7996,
+      "sha256": "b3376e7f0efab33ba56bac20d06b8493305de71df393dbb268d7d5de5d0dfd19",
+      "file": "texts/cc-pl24-1845-isaiah-prologue.txt",
+      "provenance": "provenance/cc-pl24-1845-isaiah-prologue.json",
+      "read": "https://bibliothecacatholica.com/#/read/jerome-isaiah-prologue/cc-pl24-1845-isaiah-prologue",
+      "details": "https://bibliothecacatholica.com/work/jerome-isaiah-prologue/"
+    },
+    {
+      "workId": "prudentius-eulalia",
+      "editionId": "ia-thackeray-1890-eulalia",
+      "title": "St. Eulalia (Peristephanon III)",
+      "author": "Prudentius",
+      "language": "English",
+      "edition": "Transcription of the Internet Archive scan of F. St. J. Thackeray, Translations from Prudentius (London: George Bell and Sons, 1890), pp. 120-125, a ten-stanza selection",
+      "contributors": [
+        {
+          "role": "translator",
+          "name": "Thackeray, F. St. J. (Francis St. John)"
+        }
+      ],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules.",
+      "source": "https://archive.org/details/translationsfro00thacgoog",
+      "checked": "2026-11-21",
+      "bytes": 4156,
+      "sha256": "a5ed411df43e2f40a23eb2b1ae5f6b6f7bbbcd28f45bdc11333a94d1d2a87353",
+      "file": "texts/ia-thackeray-1890-eulalia.txt",
+      "provenance": "provenance/ia-thackeray-1890-eulalia.json",
+      "read": "https://bibliothecacatholica.com/#/read/prudentius-eulalia/ia-thackeray-1890-eulalia",
+      "details": "https://bibliothecacatholica.com/work/prudentius-eulalia/"
     },
     {
       "workId": "baring-gould-lives-january",
@@ -2835,6 +2894,24 @@
       "provenance": "provenance/ia-prayer00moor.json",
       "read": "https://bibliothecacatholica.com/#/read/moore-prayer/ia-prayer00moor",
       "details": "https://bibliothecacatholica.com/work/moore-prayer/"
+    },
+    {
+      "workId": "walsh-high-points-medieval-culture",
+      "editionId": "ia-highpointsofmedi00wals",
+      "title": "High Points of Medieval Culture",
+      "author": "James J. Walsh",
+      "language": "English",
+      "edition": "Transcription of the Internet Archive scan (Milwaukee: The Bruce Publishing Company, 1937)",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules.",
+      "source": "https://archive.org/details/highpointsofmedi00wals",
+      "checked": "2026-11-22",
+      "bytes": 556933,
+      "sha256": "92bf64e871f0d7c1d3c7e757c1da02f660bfaf6df3857a099ba3279f155f9c9e",
+      "file": "texts/ia-highpointsofmedi00wals.txt",
+      "provenance": "provenance/ia-highpointsofmedi00wals.json",
+      "read": "https://bibliothecacatholica.com/#/read/walsh-high-points-medieval-culture/ia-highpointsofmedi00wals",
+      "details": "https://bibliothecacatholica.com/work/walsh-high-points-medieval-culture/"
     },
     {
       "workId": "walsh-worlds-debt-catholic-church",
