@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "origin": "https://texts.bibliothecacatholica.com",
-  "sourceCommit": "309ebcdee633a7788968b20c015a4f9481e302b9",
-  "totalBytes": 76907730,
+  "sourceCommit": "d4a7c9e47de601999dc4eb4d0594d8c97d7356ab",
+  "totalBytes": 77165593,
   "documents": [
     {
       "workId": "confessions",
@@ -2894,6 +2894,24 @@
       "provenance": "provenance/ia-prayer00moor.json",
       "read": "https://bibliothecacatholica.com/#/read/moore-prayer/ia-prayer00moor",
       "details": "https://bibliothecacatholica.com/work/moore-prayer/"
+    },
+    {
+      "workId": "cassidy-molders-of-the-medieval-mind",
+      "editionId": "ia-moldersofmedieva00cass",
+      "title": "Molders of the Medieval Mind",
+      "author": "Francis P. Cassidy",
+      "language": "English",
+      "edition": "Transcription of the Internet Archive scan (St. Louis: B. Herder Book Co., 1944)",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules.",
+      "source": "https://archive.org/details/moldersofmedieva00cass",
+      "checked": "2026-11-23",
+      "bytes": 257863,
+      "sha256": "adc1e8cf134ab28519cb2bdbd591caa8f44495b08182b93df7b62679b0ab8df9",
+      "file": "texts/ia-moldersofmedieva00cass.txt",
+      "provenance": "provenance/ia-moldersofmedieva00cass.json",
+      "read": "https://bibliothecacatholica.com/#/read/cassidy-molders-of-the-medieval-mind/ia-moldersofmedieva00cass",
+      "details": "https://bibliothecacatholica.com/work/cassidy-molders-of-the-medieval-mind/"
     },
     {
       "workId": "walsh-high-points-medieval-culture",
