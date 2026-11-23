@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "origin": "https://texts.bibliothecacatholica.com",
-  "sourceCommit": "e441e4e60854ac25e8b18ae13af5ef33f5942a96",
-  "totalBytes": 76221558,
+  "sourceCommit": "a86528de8f59d4c2e57ebe2082677a75e226ccb9",
+  "totalBytes": 76548060,
   "documents": [
     {
       "workId": "confessions",
@@ -2966,6 +2966,24 @@
       "provenance": "provenance/pga-0500731.json",
       "read": "https://bibliothecacatholica.com/#/read/baring-c/pga-0500731",
       "details": "https://bibliothecacatholica.com/work/baring-c/"
+    },
+    {
+      "workId": "grant-john-england",
+      "editionId": "ia-johnenglandameri00gran",
+      "title": "John England, American Christopher",
+      "author": "Dorothy Fremont Grant",
+      "language": "English",
+      "edition": "Transcription of the Internet Archive scan (Milwaukee: The Bruce Publishing Company, 1949)",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules.",
+      "source": "https://archive.org/details/johnenglandameri00gran",
+      "checked": "2026-11-23",
+      "bytes": 326502,
+      "sha256": "73fd3a7351fd60af977cf09ffd330c2426679f87e952bc2e4e3465c0c53b11c7",
+      "file": "texts/ia-johnenglandameri00gran.txt",
+      "provenance": "provenance/ia-johnenglandameri00gran.json",
+      "read": "https://bibliothecacatholica.com/#/read/grant-john-england/ia-johnenglandameri00gran",
+      "details": "https://bibliothecacatholica.com/work/grant-john-england/"
     },
     {
       "workId": "haas-rights-and-wrongs-in-industry",
