@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "origin": "https://texts.bibliothecacatholica.com",
-  "sourceCommit": "a86528de8f59d4c2e57ebe2082677a75e226ccb9",
-  "totalBytes": 76548060,
+  "sourceCommit": "309ebcdee633a7788968b20c015a4f9481e302b9",
+  "totalBytes": 76907730,
   "documents": [
     {
       "workId": "confessions",
@@ -2984,6 +2984,24 @@
       "provenance": "provenance/ia-johnenglandameri00gran.json",
       "read": "https://bibliothecacatholica.com/#/read/grant-john-england/ia-johnenglandameri00gran",
       "details": "https://bibliothecacatholica.com/work/grant-john-england/"
+    },
+    {
+      "workId": "furfey-mystery-of-iniquity",
+      "editionId": "ia-mysteryofiniquit00furf",
+      "title": "The Mystery of Iniquity",
+      "author": "Paul Hanly Furfey",
+      "language": "English",
+      "edition": "Transcription of the Internet Archive scan (Milwaukee: The Bruce Publishing Company, 1945)",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules.",
+      "source": "https://archive.org/details/mysteryofiniquit00furf",
+      "checked": "2026-11-23",
+      "bytes": 359670,
+      "sha256": "97be6cd9d911d343c0461105ae4f0efdc58ca267fcd29bb9b0042ff01bfa05cd",
+      "file": "texts/ia-mysteryofiniquit00furf.txt",
+      "provenance": "provenance/ia-mysteryofiniquit00furf.json",
+      "read": "https://bibliothecacatholica.com/#/read/furfey-mystery-of-iniquity/ia-mysteryofiniquit00furf",
+      "details": "https://bibliothecacatholica.com/work/furfey-mystery-of-iniquity/"
     },
     {
       "workId": "haas-rights-and-wrongs-in-industry",
