@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "origin": "https://texts.bibliothecacatholica.com",
-  "sourceCommit": "d4a7c9e47de601999dc4eb4d0594d8c97d7356ab",
-  "totalBytes": 77165593,
+  "sourceCommit": "70b485911d4af764d5c7644f7f00e5cd1b5807f8",
+  "totalBytes": 77921322,
   "documents": [
     {
       "workId": "confessions",
@@ -2914,6 +2914,24 @@
       "details": "https://bibliothecacatholica.com/work/cassidy-molders-of-the-medieval-mind/"
     },
     {
+      "workId": "fichter-james-laynez",
+      "editionId": "ia-jameslaynezjesui00fich",
+      "title": "James Laynez, Jesuit",
+      "author": "Joseph H. Fichter",
+      "language": "English",
+      "edition": "Transcription of the Internet Archive scan (St. Louis: B. Herder Book Co., 1944)",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules.",
+      "source": "https://archive.org/details/jameslaynezjesui00fich",
+      "checked": "2026-11-23",
+      "bytes": 656020,
+      "sha256": "828aa3e7389565ffe07a30b4d384880e1555d9fd8003f868437a207f08b5b5d4",
+      "file": "texts/ia-jameslaynezjesui00fich.txt",
+      "provenance": "provenance/ia-jameslaynezjesui00fich.json",
+      "read": "https://bibliothecacatholica.com/#/read/fichter-james-laynez/ia-jameslaynezjesui00fich",
+      "details": "https://bibliothecacatholica.com/work/fichter-james-laynez/"
+    },
+    {
       "workId": "walsh-high-points-medieval-culture",
       "editionId": "ia-highpointsofmedi00wals",
       "title": "High Points of Medieval Culture",
@@ -3038,6 +3056,24 @@
       "provenance": "provenance/ia-rightswrongsinin00haas.json",
       "read": "https://bibliothecacatholica.com/#/read/haas-rights-and-wrongs-in-industry/ia-rightswrongsinin00haas",
       "details": "https://bibliothecacatholica.com/work/haas-rights-and-wrongs-in-industry/"
+    },
+    {
+      "workId": "meyer-ancient-irish-poetry",
+      "editionId": "ia-selectancientiri00meye",
+      "title": "Selections from Ancient Irish Poetry",
+      "author": "Kuno Meyer",
+      "language": "English",
+      "edition": "Transcription of the Internet Archive scan (New York: E. P. Dutton and Company, 1911)",
+      "contributors": [],
+      "rights": "Public domain in the USA. Outside the U.S., check local copyright rules.",
+      "source": "https://archive.org/details/selectancientiri00meye",
+      "checked": "2026-11-23",
+      "bytes": 99709,
+      "sha256": "237cb57dba1fdbff6b6dcd4849598f6ef9aaaf18b1e0c1ca43c1c217ee156228",
+      "file": "texts/ia-selectancientiri00meye.txt",
+      "provenance": "provenance/ia-selectancientiri00meye.json",
+      "read": "https://bibliothecacatholica.com/#/read/meyer-ancient-irish-poetry/ia-selectancientiri00meye",
+      "details": "https://bibliothecacatholica.com/work/meyer-ancient-irish-poetry/"
     }
   ]
 }

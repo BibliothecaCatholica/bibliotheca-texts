@@ -1,6 +1,6 @@
 # Bibliotheca Catholica text collection
 
-Served at https://texts.bibliothecacatholica.com by GitHub Pages from `main`.
+Served at https://texts.bibliothecacatholica.com by Cloudflare Pages from `main`. The custom domain is set on the Cloudflare Pages project, so this repository has no `CNAME` file.
 
 Read these texts in the reader at [Bibliotheca Catholica](https://bibliothecacatholica.com), the free library of Catholic authors and classics this collection serves.
 
@@ -66,7 +66,7 @@ New hosted editions also require edition-specific rights review under the main r
 
 ## Limits and housekeeping
 
-Keep GitHub Pages below its published size and traffic limits; prefer text over page images, and split oversized files by book or chapter rather than by page. Keep an independent backup: this repository is a delivery copy, not the archive of record.
+Keep Cloudflare Pages below its published limits (file size and files per deployment); prefer text over page images, and split oversized files by book or chapter rather than by page. Keep an independent backup: this repository is a delivery copy, not the archive of record.
 
 ## Corrections and takedown
 
