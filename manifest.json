@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "origin": "https://texts.bibliothecacatholica.com",
-  "sourceCommit": "70b485911d4af764d5c7644f7f00e5cd1b5807f8",
+  "sourceCommit": "e2bbd116c1535321577b305a823391ca70a31799",
   "totalBytes": 77921322,
   "documents": [
     {
@@ -3027,7 +3027,7 @@
       "title": "The Mystery of Iniquity",
       "author": "Paul Hanly Furfey",
       "language": "English",
-      "edition": "Transcription of the Internet Archive scan (Milwaukee: The Bruce Publishing Company, 1945)",
+      "edition": "Transcription of the Internet Archive scan (Milwaukee: The Bruce Publishing Company, 1944; second printing, 1945)",
       "contributors": [],
       "rights": "Public domain in the USA. Outside the U.S., check local copyright rules.",
       "source": "https://archive.org/details/mysteryofiniquit00furf",
